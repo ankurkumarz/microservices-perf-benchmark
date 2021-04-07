@@ -10,7 +10,7 @@
 ### Running the application locally
 
 * ./gradlew run
-* curl http://localhost:8080/latency
+* curl http://localhost:8080/latency?delay=1000
 
 ### Generating Native Image (GraalVM already installed)
 * ./gradlew nativeImage
