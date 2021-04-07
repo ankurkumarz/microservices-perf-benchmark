@@ -1,0 +1,4 @@
+ab -n 1000 -c 100 http://localhost:8080/latency?delay=100 > ab-100-concurrent-delay-100
+ab -n 10000 -c 1000 http://localhost:8080/latency?delay=100 >  ab-1000-concurrent-delay-100
+ab -n 5000 -c 500 http://localhost:8080/latency?delay=100 > ab-500-concurrent-delay-100
+
