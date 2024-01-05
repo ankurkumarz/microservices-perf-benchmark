@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/microservices-perf-benchmark
 report_id: b164a2a338391c7f7642dc97afb68171
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:17:36+00:00'
+timestamp: '2024-01-05T08:24:48+00:00'
 requested_by: ankurkumarz
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/build.gradle
   detection_source: micronaut-benchmark-app/build.gradle
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/benchmark-tests/commands.txt
   detection_source: micronaut-benchmark-app/benchmark-tests/commands.txt
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 06:17:49.000000000 Z
@@ -49,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/helidon-se-benchmark-app/Dockerfile
   detection_source: helidon-se-benchmark-app/Dockerfile
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-08 03:53:25.000000000 Z
@@ -61,6 +66,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -70,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -79,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-06-14 19:49:48.000000000 Z
@@ -91,6 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/build.gradle
   detection_source: micronaut-benchmark-app/build.gradle
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -103,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/helidon-se-benchmark-app/pom.xml
   detection_source: helidon-se-benchmark-app/pom.xml
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-08 03:53:25.000000000 Z
@@ -114,6 +124,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/build.gradle
   detection_source: micronaut-benchmark-app/build.gradle
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -126,6 +137,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/src/main/resources/application.yml
   detection_source: micronaut-benchmark-app/src/main/resources/application.yml
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -137,6 +149,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/build.gradle
   detection_source: micronaut-benchmark-app/build.gradle
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -148,6 +161,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/benchmark-tests/commands.txt
   detection_source: micronaut-benchmark-app/benchmark-tests/commands.txt
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 06:17:49.000000000 Z
@@ -159,6 +173,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/micronaut-benchmark-app/build.gradle
   detection_source: micronaut-benchmark-app/build.gradle
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-07 04:59:18.000000000 Z
@@ -170,6 +185,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-perf-benchmark/blob/main/helidon-se-benchmark-app/pom.xml
   detection_source: helidon-se-benchmark-app/pom.xml
   last_updated_by: Ankur Kumar
   last_updated_on: 2021-04-08 03:53:25.000000000 Z
